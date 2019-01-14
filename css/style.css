@@ -1,0 +1,17 @@
+/* This is a comment */
+
+/* CSS syntax:
+
+seletor {
+  property: value;
+  property: value;
+}
+
+*/
+
+/* Type Seletor: */
+
+p { /* select all <p> */
+  font-size: 16px; /*16px, ?pt, 100%, 1em */
+  line-height: 1.5em;
+}
